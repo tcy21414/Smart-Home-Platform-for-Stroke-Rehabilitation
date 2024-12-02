@@ -39,4 +39,6 @@ Finally output a model weight file best.pt
 4. instructions for use
 You need to download the yolov8 resource files from https://github.com/ultralytics, use the data.yaml and yolov8n.ymal files in the ultralytics-main folder, set the dataset address, and run the train.py file to start training the model.
 
+Running time of the above modules are also within a 1s (except for training process).
+
 Note: Only small datasets was uploaded for demo, more samples will be available after publication.
