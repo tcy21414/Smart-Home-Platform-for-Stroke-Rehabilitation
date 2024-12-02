@@ -13,6 +13,9 @@ Equipped with pytorch and other necessary libraries
 
 3. Instructions for use: follow the notes in the code
 
+4. Installation guide
+It takes about 1 hour to complete the environment configuration.
+
 
 ## Action-classifier-model
 1. System requirements
