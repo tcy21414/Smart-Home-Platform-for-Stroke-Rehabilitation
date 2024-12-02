@@ -1,0 +1,7 @@
+person
+tv
+desk lamp
+air conditioner
+chair
+bed
+couch

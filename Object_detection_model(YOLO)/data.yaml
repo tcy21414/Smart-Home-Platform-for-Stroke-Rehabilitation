@@ -1,0 +1,14 @@
+
+path: C:\Users\zhangruizhi\Desktop\shujuji\images # dataset root dir
+train: C:\Users\zhangruizhi\Desktop\shujuji\images\train  # train images (relative to 'path') 118287 images
+val: C:\Users\zhangruizhi\Desktop\shujuji\images\val  # val images (relative to 'path') 5000 images
+# Classes
+names:
+  0: person
+  1: tv
+  2: desk lamp
+  3: air conditioner
+  4: chair
+  5: bed
+  6: couch
+
