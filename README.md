@@ -1,5 +1,5 @@
 # Smart-Home-Platform-for-Stroke-Rehabilitation
-The supporting code and data for "A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence"
+The supporting code and data for "AI-driven multimodal smart home platform for continuous monitoring and assistance of post-stroke patients"
 
 This repository provides supporting data and code related to the above research, which will be made publicly available at the time of publication.
 
